@@ -24,12 +24,14 @@ TestAPI is a simple API built using ASP.NET Core and NUnit, designed to manage p
    
 2. Navigate to the project directory:
 
-   cd TestAPI
+   cd AmusedGroupTest/TestAPI
 
 3. Install the necessary dependencies:
 
-  dotnet restore
+   dotnet restore
 
 4. Run the application:
 
-  dotnet run
+   dotnet run
+
+   *** if fails open in visual studio and run 'dotnet run' code inside terminal
